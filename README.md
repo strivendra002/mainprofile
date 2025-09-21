@@ -1,4 +1,4 @@
-![Header](https://github.com/strivendra002/strivendra002/blob/main/banner.png)
+![Header](https://drive.google.com/uc?export=view&id=1yqq6k9EVhVVa_ASBtlCso6Z7t2sgI5j8)
 
 <h1 align="center">Hi 👋, I'm Trivendra Kumar</h1>
 <h3 align="center">Full Stack Web Developer | Building Scalable Web Apps & Interactive Solutions</h3>
