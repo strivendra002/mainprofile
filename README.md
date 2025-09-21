@@ -15,7 +15,7 @@
 - 🏗️ Built projects like **Task Manager, Recipe Finder, heyQuiz, ePharma, Court Case Management**  
 - 📄 [View my Resume](https://drive.google.com/file/d/1VnCtCEM92QpQ_Y0dTwL5vk-UrVD2B0ty/view?usp=sharing)  
 - 📫 Reach me at **strivendra002@gmail.com**  
-- 🌍 Based in **Bhilai, Chhattisgarh, India**  
+- 🌍 Based in **Gurugram, Haryana, India**  
 
 ---
 
@@ -43,6 +43,17 @@
 ---
 
 ## 🎯 Featured Projects  
+---
+### 🧑‍🏫 heyQuiz App  
+Interactive quiz platform to attempt and create quizzes.  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myquiz-1.onrender.com/)  
+---
+
+---
+### 💊 ePharma (Online Pharmacy)  
+Online pharmacy platform with authentication & cart functionality.  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://resilient-mermaid-621bb0.netlify.app/)  
+---
 
 ### 🍲 Recipe App (MERN)  
 Search any dish and view detailed recipes.  
@@ -51,23 +62,6 @@ Search any dish and view detailed recipes.
 
 ---
 
-### 📋 Task Manager (Trello-like)  
-Drag-and-drop task boards built with React, TypeScript, Chakra UI, and Firebase.  
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strivendra002)  
-
----
-
-### 🧑‍🏫 heyQuiz App  
-Interactive quiz platform to attempt and create quizzes.  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myquiz-1.onrender.com/)  
-
----
-
-### 💊 ePharma (Online Pharmacy)  
-Online pharmacy platform with authentication & cart functionality.  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://resilient-mermaid-621bb0.netlify.app/)  
-
----
 
 ### ⚖️ Court Case Management  
 High Court & Consumer Court case tracking system with notifications and JWT authentication.  
